@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sea-gull, or The new apparition in the Star-Chamber at Westminster.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92772</idno><idno type="EEBO-CITATION">99872696</idno>
+  <idno type="VID">155234</idno>
+  <idno type="EEBO-PROQUEST">2240937272</idno>
+  
+            <idno type="STC">Wing S2170</idno>
+            <idno type="STC">Thomason E54_4</idno>
+            <idno type="STC">ESTC R4530</idno>
+            <idno type="PROQUEST">99872696</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99872696e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92772)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155234)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E54[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sea-gull, or The new apparition in the Star-Chamber at Westminster.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London, i.e. Oxford :</pubPlace>
+                  <date>Imprinted, 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 8th"; above the imprint year:"Oxon".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155234:1"/>
+            <p>THE SEA-GULL, OR THE NEW APPARITION IN THE STAR-CHAMBER AT WESTMINSTER.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 63.11.</hi>
+               </bibl>
+               <p>The King shall rejoyce in God, every one that sweareth by him shall glory, but the mouth of them that speake lyes shall be stopped.</p>
+            </q>
+            <p>Imprinted, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155234:2"/>
+            <pb n="1" facs="tcp:155234:2"/>
+            <head>The Sea Gull,<note place="margin">The Picture was taken at Sea.</note> OR, The new Apparition in the Starre-Chamber at WESTMINTER.</head>
+            <argument>
+               <p>Being a true and accurate descripti<g ref="char:EOLhyphen"/>on of a large Picture, exposed to publike view, lively representing the story of <hi>Conanus</hi> and <hi>Vrsula,</hi> (taken out of the golden Legend) most grossely mistaken for His Majesties tendring the Scepter of his Kingdomes into the hands of the Queene and Pope.</p>
+            </argument>
+            <p>
+               <hi>GRatian</hi> the Sonne of <hi>Valentinian</hi> the elder being Em<g ref="char:EOLhyphen"/>perour,<note place="margin">The l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gend of St. Vrsula, &amp; the 11000 Vi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>gins that wai<g ref="char:EOLhyphen"/>ted on her, exactly pour<g ref="char:EOLhyphen"/>traied, in the aforesaid Picture, faithfully translated out of the French Copy set forth by Pete<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ri<g ref="char:EOLhyphen"/>badeneyra, in the yeare of our Lord 1608, to amuse credulous Romish Zelots.</note> a Captaine of his named <hi>Maximus,</hi> a valorous man, borne in <hi>Bretaigne</hi> (at this day called <hi>England</hi>) re<g ref="char:EOLhyphen"/>belled against him, and having bin proclaimed King by his Souldiers, and assured of their fidelity, and the love of his
+<pb n="2" facs="tcp:155234:3"/> friends, passed into <hi>France,</hi> where he made great conquests, and specially in <hi>Britaigne</hi> (then called <hi>Armorica</hi>) the which he utterly wasted and ruined, <hi>Maximus</hi> (conceiving this place to be of im<g ref="char:EOLhyphen"/>portance for the security of <hi>England</hi> and <hi>France,</hi> resolved to re-people the same, and to that purpose he divides amongst his soul<g ref="char:EOLhyphen"/>diers which came out of <hi>England,</hi> the fertile fields, and lands of little <hi>Britaigne,</hi> to hold of him in fee: but to the end the Soul<g ref="char:EOLhyphen"/>diers might be firmely setled in that Province by marrying there, he sent to call out of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> a great number of Maidens to people that Countrey, in the which all the wo<g ref="char:EOLhyphen"/>men had before bin slaine. The chiefe Captaine of all the Army was <hi>Conanus,</hi> a man of high birth, and the most renowned Lord of <hi>England,</hi> whom <hi>Maximus</hi> had made his Lieutenant Generall, and Admirall of this Sea Coast, who asked in marriage a most ver<g ref="char:EOLhyphen"/>tuous Damosell, the Daughter of <hi>Dio<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>osius,</hi> then King of <hi>Corn<g ref="char:EOLhyphen"/>wall,</hi> called <hi>Vrsula,</hi> a Lady adorned with all those vertues which may be wished in a woman, honourable, faire, pleasing, and of a noble demeanour; then they sought for the purpose aforesaid throughout those Islands, eleven thousand maids, which were to accompany <hi>Vrsula,</hi> who was to be the mistresse and conductresse of all the rest, whereof some went freely, others constrainedly: but such was the peremptory commands of <hi>Maximus,</hi> who was already become absolute Lord, that they must passe thither; and being imbarqued in diverse vessels prepared for them, it pleased God that when they were at Sea there rose a rough and contrary wind, insomuch that in stead of arriving in <hi>Britaigne,</hi> they were violently transported towards the <hi>Rhyne</hi> upon a coast where the Sea ebbs and flowes. At the same time when this happened, the Emperour <hi>Gratian</hi> knowing what <hi>Maximus</hi> had done in <hi>Englan<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and <hi>France,</hi> and how he was revolted from him his Soveraigne and Master, had called the <hi>Picts</hi> and <hi>Hunnes</hi> to his service, a cruell and barba<g ref="char:EOLhyphen"/>rous Nation, who had vanquished the <hi>Gothes,</hi> and done incredi<g ref="char:EOLhyphen"/>ble exploits in war, who being there at that time under their lea<g ref="char:EOLhyphen"/>ders <hi>Melga</hi> and <hi>Gannus,</hi> presently ran towards the Sea with a puissant Army, and like Robbers swept all away before them, and pillaged and destroyed whatsoever, came in their way, with an in<g ref="char:EOLhyphen"/>rention to passe over into <hi>England,</hi> and hence expell <hi>Maximus,</hi> and to re-establish the Emperour, in whose pay they were: now it so happened, that they all met together in the same harbour with the Virgins, and understanding they were the enemies ships,
+<pb n="3" facs="tcp:155234:3"/> belonging to <hi>Maximus,</hi> against whom they were come, they seiz<g ref="char:EOLhyphen"/>ed upon them; when they saw them to be fraughted with Damosels, they resolved (being people no lesse luxurious and lustfull, then cruell and Inhumane) to force and ravish them of their honour: But these generous Virgins incited and encouraged by Saint <hi>Ursu<g ref="char:EOLhyphen"/>la</hi> their Ladie and Governesse, determined rather to lose their lives then their chastities, and having bravely testified by their words and deeds, their resolution to endure the utmost of extre<g ref="char:EOLhyphen"/>mities in the defence thereof, the <hi>Barbarians</hi> turning their lust into futie, and enraged also against the Christian Faith, fell upon them (as wolves on a flock of sheepe) and put them all to the Sword; that so having dispatched them, they might speedily get over into <hi>England,</hi> which they knew was disfurnishe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of men, in regard that <hi>Maximus</hi> had drawne them thence to furnish other places.</p>
+            <p>Of all that holy companie, there escaped only one named <hi>Cordula,</hi> who hid her selfe for feare when they massacred the rest, but per<g ref="char:EOLhyphen"/>ceiving what had passed, was loath to survive her companions, and therefore (being moved &amp; strengthned by the grace of God, offered her selfe the next morning, and was added to the number of the Virgin Martyrs, as the <hi>Roman Martyrologe</hi> reporteth. Now the chiefe amongst them, whose blood was shed for the faith of Jesus Christ, &amp; preservation of their honour,<note place="margin">A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> English Bishop.</note> were (as <hi>Adon</hi> mentioneth) S. <hi>Ursula,</hi> guide &amp; Governesse of all the other, and <hi>Santia, Gregoria, Pinnosa Mardia, Saula, Brittula, Saturnina, Saturnia, Rabacia, Pal<g ref="char:EOLhyphen"/>ladia, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mentia,</hi> &amp; <hi>Grata.</hi> The day whe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eon they dyed, Jesus Christ their deare Spouse, tryumphed in them, over Infidelitie, Sensua<g ref="char:EOLhyphen"/>litie. Sin, and Hell; that so all might see, that the vertue of a Christian hath greater courage to suffer death then the cruelty of Satan hath power to inflict it, and that the fall of Christs Souldi<g ref="char:EOLhyphen"/>ers is their rise, their Death their conquest, for which they re<g ref="char:EOLhyphen"/>ceive an inestimable reward which can never be taken from them. The Bodies of these holy Virgins were buried by the faithfull with great Devotion, carried to <hi>Cologne,</hi> a Towne on the said River of the <hi>Rhine,</hi> where was founded a faire Monasterie of Nuns, where is yet to be seene unto this day many of those holy Vir<g ref="char:EOLhyphen"/>gins heads, which are had in great Reverence, and others are dis<g ref="char:EOLhyphen"/>persed into divers parts of Christendome. 'Tis beleeved by many, that the place where their Bodies rest at this day, was the same where they were Massacred, for the ground of that Church will
+<pb n="4" facs="tcp:155234:4"/> not retaine any other dead corps,<note place="margin">This reason <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i h <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> but such a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> h<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ve Faith in pop<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>sh le<g ref="char:EOLhyphen"/>gends: for why should we be<g ref="char:EOLhyphen"/>lieve that the ground should be so un<g ref="char:EOLunhyphen"/>hospitall, or that the ashes of holy Vi<g ref="char:EOLhyphen"/>gins should wo l<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> so un<g ref="char:EOLhyphen"/>charitable a mi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le, as no<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to afford a lodging to a nak<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> corps, especially of an innocent Child.</note> no not of an Infant newly bapti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, but if any <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e interred there, it is againe cast up in the night, as Bishop <hi>Lyndan</hi> testifieth, which is a signe (saith the aforesaid Author) that God will not have any other bodies to be buried in that place, wherein those Illustrious Virgins and Martyrs are, who watred that earth with their blood, for the confession of their Faith, and the defence of their chastities. 'Tis also affirmed, that Saint <hi>Ursula</hi> and her holy companions,<note n="*" place="margin">This smells ra<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k of popish S<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>perstition, for we have but o<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> M. di<g ref="char:EOLhyphen"/>a<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> assist and comfort those at the houre of their death, who honoured and invoked them in their lives; their Martyrdome (according to <hi>Baronius</hi>) was accom<g ref="char:EOLhyphen"/>plisht in the yeare of Grace, 383. under <hi>Gratian</hi> and <hi>Valentinian</hi> his son, and <hi>Theodosius</hi> the elder, whom <hi>Gratian</hi> assumed into the Partnership of the Empire, judging it needfull (being prest on all sides by the <hi>Barbarians</hi>) to ingage in his defence so valiant a Cap<g ref="char:EOLhyphen"/>taine: the day which the Church hath consecrated to their memo<g ref="char:EOLhyphen"/>rie, was the 21 day of <hi>October.</hi>
+            </p>
+            <p>Now besides the Authors aforesaid, there have written of them <hi>Wandalebert, anno,</hi> 850, and <hi>Sigisbet</hi> a Monk of <hi>Gemblack,</hi> who writ after the same 500 yeares, and <hi>Roger de Cisteaux, Richard de Premonstre,</hi> and <hi>Claude de la Rote,</hi> and <hi>Bonfinius</hi> in his Histo<g ref="char:EOLhyphen"/>rie of Hungarie, and <hi>Petrus de Natalibus,</hi> and <hi>Polidore Virgil</hi> in his Historie of <hi>England</hi> and more amplie then all the rest, <hi>Suri<g ref="char:EOLhyphen"/>us</hi> in his fifth <hi>Tome</hi> of the lives of the Saints.</p>
+            <div type="to_the_reader">
+               <opener>
+                  <salute>READER,</salute>
+               </opener>
+               <p>
+                  <hi>ALthough the bare Relation of the storie doth sufficiently dis<g ref="char:EOLhyphen"/>cover to everie Intelligent Reader, the grosse abuse of His Majesties Subjects, by such, who suggest to the vulgar, that this Picture hath reference to His Majestie, and His Royall Consort: Yet because it is a matter of great difficultie, to disabuse those who are given up to strong delusions, to beleeve Lyes, because they love not the Truth, and no lesse then many thousands have alreadie swallowed this <hi>Sea-Gull;</hi> I have therefore thought fit, to present unto the Reader, some remarkable particulars exprest in the Picture it selfe, not so much to convince as confound them, who have made a wicked use thereof, to foment and increase disloyall thoughts and jealousies in His Majesties good Subjects, whereof the plaine mean<g ref="char:EOLhyphen"/>ing Painter of <hi>Antwerpe</hi> is no way guiltie.</hi>
+               </p>
+               <pb n="5" facs="tcp:155234:4"/>
+               <p n="1">I. THe dresse or Garbe of the Prince there drawne; with Sandales, Buskins, and Habergion, shewes him to be an ancient Roman Captaine, and no King of <hi>England.</hi>
+               </p>
+               <p n="2">II. The Impresse or Motto in this Ensigne, being <hi>S. P. Q. R.</hi> which signifieth <hi>Senatus Populusque Romanus,</hi> that is, the Senate and people of <hi>Rome,</hi> puts it out of que<g ref="char:EOLhyphen"/>stion that it hath no relation to <hi>England.</hi>
+               </p>
+               <p n="3">III. The glory or raies over the Head of the Princes re<g ref="char:EOLhyphen"/>presented, assures us, that the Painter intended not any Person now living, but a deceased and canonized Ro<g ref="char:EOLhyphen"/>man Saint.</p>
+               <p n="4">IV. The Coronets on their Heads, resembling those of Dukes or Earles, and not like Imperiall Crownes, de<g ref="char:EOLhyphen"/>monstrate them not to be Soveraigne, but Inferior Princes.</p>
+               <p n="5">V. There is not any representation of the Pope at all; for there is no Triple Crowne. In one of the plates whereof (<hi>Causabon</hi> affirmeth) in his short Annotations upon certain places of the new Testament was ancient<g ref="char:EOLhyphen"/>ly engraven, the word <hi>Mysterium,</hi> but an ordinary Bi<g ref="char:EOLhyphen"/>shop with a Miter and a Crosier, before whom the two Princes were affianced to each other; whose tender of the Scepter to her, was Master Painters Embleme, to shew the commanding power of Beautie.</p>
+               <pb n="6" facs="tcp:155234:5"/>
+               <p n="6">VI.The numerous company of Virgins, represented in the Picture (being 11000. as is the storie) cannot hold any proportion with the few Ladies and Maids of Ho<g ref="char:EOLhyphen"/>nour, which attended on her Majestie at her landing at <hi>Birdlington.</hi>
+               </p>
+               <p n="7">VII. The place described in the Picture, appeares plainly to be the Citie of <hi>Cologne,</hi> knowne unto all Travellers by a famous marke, which is the crooked Steeple there to be seene.</p>
+               <p n="8">VIII. There is the bloody massacre of a Princesse, and an exceeding great company of women represented, wher<g ref="char:EOLhyphen"/>as God be thanked, neither her Majesty nor any of her Ladies attending her, received the least hurt at their ar<g ref="char:EOLhyphen"/>rivall aforesaid.</p>
+               <p>
+                  <note place="margin">Parva San<g ref="char:EOLhyphen"/>ta Anna de Sevilla.</note>Lastly, the Picture it selfe was made by one <hi>Gerarde de la Valle</hi> at <hi>Antwerpe,</hi> as is exprest in the bottome thereof, and intended to be set up in Saint <hi>Anus</hi> Church in <hi>Sivil</hi> in <hi>Spain,</hi> as appeares by the superscription (up<g ref="char:EOLhyphen"/>on the wooden case wherein this Picture drawne on cloth was rolled up, when it was taken neere <hi>Arundell</hi> Haven about Christmas last, in a Ship belonging to one <hi>Devoes</hi> a Merchant in <hi>Flaunders.</hi>) In which Church, and the like hallowed places, no Pictures or Images of the living, but onely of departed Saints canonized are hanged up. Unto which, Romanists performe an inferior kind of religious worship.</p>
+               <q>Spectatum admissi risum teneatis Amici?</q>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
